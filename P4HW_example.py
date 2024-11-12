@@ -1,4 +1,5 @@
 # Example similiar to P4HW1
+# Dylan Makombe
 
 # List of available items (this is not needed in your homework)
 availableItems = ["litter", "cat food", "feather", "collar", "litter box", "flea meds", "treat"]
